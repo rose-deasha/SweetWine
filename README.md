@@ -89,7 +89,7 @@ This project includes the following visualizations to interpret model performanc
 
 Sample visualization (Confusion Matrix Heatmap):
 
-![Confusion Matrix](path/to/your/heatmap-image.png)
+![Confusion Matrix](heatmap-image.png)
 
 ---
 
